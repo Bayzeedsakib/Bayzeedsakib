@@ -167,11 +167,6 @@ Book issuing & tracking with authentication, role-based authorization, inventory
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bayzeedsakib&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=0E4D64" width="100%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bayzeedsakib/Bayzeedsakib/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Bayzeedsakib/Bayzeedsakib/output/github-snake.svg" width="100%" />
-</picture>
-
 </div>
 
 ---
